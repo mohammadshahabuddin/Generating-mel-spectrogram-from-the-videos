@@ -15,15 +15,15 @@ Image Output: Saves the spectrograms as transparent .jpg images, ready for integ
 Batch Processing: Automatically processes multiple video files in a folder.
 
 # Workflow
-1.Input Videos: Provide a folder containing .mp4 video files.
+1. Input Videos: Provide a folder containing .mp4 video files.
 
-2.Audio Extraction and Processing:
+2. Audio Extraction and Processing:
 
 Extracts audio from each video.
 
 Generates Mel-spectrograms from the audio signal.
 
-3.Image Output: Saves each Mel-spectrogram as a .jpg image in the specified output folder.
+3. Image Output: Saves each Mel-spectrogram as a .jpg image in the specified output folder.
 # Applications
 Preparing labeled datasets for audio or video machine learning models.
 
