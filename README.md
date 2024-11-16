@@ -5,7 +5,8 @@ This repository features a Python script that extracts audio from video files an
 # Features
 Video Processing: Extracts audio from video files in .mp4 format.
 
-#Mel-Spectrogram Generation:
+Mel-Spectrogram Generation:
+
 Converts extracted audio signals to Mel-spectrograms.
 
 Scales power values to decibels for better visualization.
