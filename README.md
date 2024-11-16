@@ -1,4 +1,4 @@
-# Generating-mel-spectrogram-from-the-videos:Convert Video Audio to Mel-Spectrogram Images
+# Generating-mel-spectrogram-from-the-videos: Convert Video Audio to Mel-Spectrogram Images
 
 This repository features a Python script that extracts audio from video files and converts it into high-quality Mel-spectrogram images. Using Librosa for audio processing and Matplotlib for visualization, this tool is ideal for creating datasets or visualizing audio features for video-based projects.
 
