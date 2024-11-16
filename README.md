@@ -3,17 +3,17 @@
 This repository features a Python script that extracts audio from video files and converts it into high-quality Mel-spectrogram images. Using Librosa for audio processing and Matplotlib for visualization, this tool is ideal for creating datasets or visualizing audio features for video-based projects.
 
 # Features
-Video Processing: Extracts audio from video files in .mp4 format.
+1. Video Processing: Extracts audio from video files in .mp4 format.
 
-Mel-Spectrogram Generation:
+2. Mel-Spectrogram Generation:
 
 Converts extracted audio signals to Mel-spectrograms.
 
 Scales power values to decibels for better visualization.
 
-Image Output: Saves the spectrograms as transparent .jpg images, ready for integration into datasets or analysis workflows.
+3. Image Output: Saves the spectrograms as transparent .jpg images, ready for integration into datasets or analysis workflows.
 
-Batch Processing: Automatically processes multiple video files in a folder.
+4. Batch Processing: Automatically processes multiple video files in a folder.
 
 # Workflow
 1. Input Videos: Provide a folder containing .mp4 video files.
